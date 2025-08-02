@@ -69,3 +69,5 @@
        setIsSubmitting(false);
      }
    };
+
+export default handleSubmit
